@@ -7,8 +7,11 @@
 <!-- Capsule Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Zayd%20Ahmed&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technical%20Founder%20%7C%20Full-Stack%20Engineer%20%7C%20Blockchain%20Builder&descAlignY=60&descColor=c7d2fe" width="100%"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=🚀+Building+the+future+of+global+investing+%40+Wealtii;⛓️+5%2B+years+in+Blockchain+%7C+DeFi+%7C+Smart+Contracts;💻+306%2C000%2B+lines+of+production+code%2C+solo%2C+in+8+months;🌍+Making+finance+transparent+and+accessible+for+everyone" alt="Typing SVG" />
+<!-- Tagline badges -->
+![Founder](https://img.shields.io/badge/🚀%20Building-Wealtii%20%7C%20Digital%20Asset%20Index%20Funds-6366f1?style=flat-square)
+![Blockchain](https://img.shields.io/badge/⛓️%205%2B%20Years-Blockchain%20%7C%20DeFi%20%7C%20Smart%20Contracts-8b5cf6?style=flat-square)
+![Code](https://img.shields.io/badge/💻%20306K%2B%20Lines-Production%20Code%20%7C%20Solo%20%7C%208%20Months-f59e0b?style=flat-square)
+![Mission](https://img.shields.io/badge/🌍%20Mission-Finance%20for%205%20Billion%20People-22c55e?style=flat-square)
 
 <br/>
 
@@ -262,12 +265,7 @@ Full regression suite runs on every push. No code ships without
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zayd77&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zayd77&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayd77&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=10" alt="Top Languages" width="45%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zayd77&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
 
 <br/><br/>
 
@@ -277,15 +275,6 @@ Full regression suite runs on every push. No code ships without
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=zayd77&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
-
-</div>
-
----
 
 ## 🗺️ What's Next
 
@@ -332,10 +321,6 @@ I'm always open to connecting with fellow builders, engineers, investors, and an
 
 <div align="center">
 
-<!-- Snake animation — set up GitHub Actions workflow to generate this -->
-<img src="https://raw.githubusercontent.com/zayd77/zayd77/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="80%"/>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer&animation=fadeIn" width="100%"/>
 
